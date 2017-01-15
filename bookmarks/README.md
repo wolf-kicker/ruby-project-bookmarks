@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
+http://12devs.co.uk/articles/writing-a-web-application-with-ruby-on-rails/
+
+https://github.com/apeacox/12dos-bookmarks. 
+
 * ...
